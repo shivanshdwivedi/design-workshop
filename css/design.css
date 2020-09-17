@@ -590,6 +590,12 @@
     border-bottom: 0.2rem solid var(--main-gray);
     width: 70%;
   }
+  .site-footer{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 140px;
+  }
 }
 
 
