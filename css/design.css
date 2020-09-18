@@ -321,6 +321,10 @@
     padding: 0 0 0 20rem;
     /* padding-left: 20rem; */
   }
+
+  .pad-mid{
+    padding-left: 140px;
+  }
   
   @media screen and (max-width: 600px) {
     .welcome-section {
